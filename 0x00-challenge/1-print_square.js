@@ -1,8 +1,8 @@
 #!/usr/bin/node
 /*
-    prints a square with the character #
+    print a square with the character #
     
-    size of the square must be the first argument 
+    the size of the square must be the first argument 
     of the program.
 
     change in size = parseInt(process.argv[2], 16)
